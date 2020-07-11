@@ -6,6 +6,7 @@ namespace New_folder
     {
         static void Main(string[] args)
         {
+            //This writes a line
             Console.WriteLine("Please type your username below");
             
             //"userName" variable is equal to the user input
