@@ -17,7 +17,10 @@ A program which displays a question. The program then takes input from the user 
 4. Loops
 A program which allows the user to press "enter". This then rolls two dices and displays the numbers. This is repeated until the two numbers rolled are the same before the program then displays that you have rolled a two-of-a-kind and even shows the number of attempts.
 
+5. Arrays
+A program which allows the user to input the number of students and then input their names. The program then sorts the names into alphabetical order. However, the program can be easily changed to ask for the number of things and their names, e.g staff on duty, before again sorting the names into alphabetical order.
+
 
 I hope you enjoy my experiements!
 
-Daniel
+Dan
